@@ -4,7 +4,7 @@ local Rayfield = loadstring(game: HttpGet('https: //sirius.menu/rayfield'))()
         Name = "99 Nights In The Forest - Buy menk_fanclub ",
         Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
         LoadingTitle = "99 Nights In The Forest",
-        LoadingSubtitle = "Script By menk_fanclub",
+        LoadingSubtitle = "Script By Dominic",
         Theme = selectedTheme, -- Check https: //docs.sirius.menu/rayfield/configuration/themes
 
         DisableRayfieldPrompts = false,
